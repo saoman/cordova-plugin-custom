@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-custom",
+  "version": "1.0.0",
+  "description": "Cordova custom Plugin",
+  "cordova": {
+    "id": "cordova-plugin-custom",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.onemore.cc/yangshuai/cordova-plugin-contacts.git"
+  },
+  "keywords": [
+    "cordova",
+    "custom"
+  ],
+  "author": "46517115@qq.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/CordovaCn/CordovaPluginsDemo/issues"
+  },
+  "homepage": "https://github.com/CordovaCn/CordovaPluginsDemo#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
